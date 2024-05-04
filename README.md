@@ -1,6 +1,6 @@
 # RoboC2-Klipper
 
-Watch these videos for context:
+ Watch these videos for context:
 https://youtu.be/PIkeEP66ZNs - Part 1
 https://youtu.be/5eVwbW5pNZ0 - Part 2
 
