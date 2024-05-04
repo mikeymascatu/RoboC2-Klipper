@@ -76,3 +76,10 @@ This is an offical mod made by Robo3D and comes in handy when printing at those 
 [Offical Guide](https://help.robo3d.com/hc/en-us/articles/360001909492-Precision-Air-Flow-Fan-mount-printed-add-on) and 
 [STL](https://www.thingiverse.com/thing:2833645)
 
+# OrcaSlicer
+
+I uploaded my configs from OrcaSlicer so people have a headstart.
+
+## Installation
+
+In OrcaSlicer, Go to File>Import>Import Configs and select this file
