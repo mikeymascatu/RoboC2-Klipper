@@ -22,7 +22,7 @@ Internet
 
 ### *OS Installation*
 
-Flash MainsailOS (32 Bit) onto a SD card
+Flash MainsailOS (32 Bit) onto a SD card using RPI Imaging Tool
 
 Follow this guide:
 https://help.robo3d.com/hc/en-us/articles/115001580151-Replacing-your-MicroSD
@@ -33,12 +33,12 @@ Power on the printer and log into the Pi via ssh
 
 Enter these commands (seperately)
 
-'''
+```
 git clone https://github.com/waveshare/LCD-show.git
 cd LCD-show/
 chmod +x LCD35-show
  ./LCD35-show
- '''
+ ```
 
  Restart the Pi
 
