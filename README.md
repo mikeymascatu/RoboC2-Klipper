@@ -24,8 +24,7 @@ Internet
 
 Flash MainsailOS (32 Bit) onto a SD card using RPI Imaging Tool
 
-Follow this guide:
-https://help.robo3d.com/hc/en-us/articles/115001580151-Replacing-your-MicroSD
+Follow this [guide:](https://help.robo3d.com/hc/en-us/articles/115001580151-Replacing-your-MicroSD)
 
 Power on the printer and log into the Pi via ssh
 
@@ -42,19 +41,17 @@ chmod +x LCD35-show
 
  Restart the Pi
 
-*Klipper install*
+### *Klipper install*
 
-Install KIAUH to make things easier
-https://github.com/dw-0/kiauh
+Install [KIAUH](https://github.com/dw-0/kiauh) to make things easier
 
 Flash MCU firmware, there are many videos on how to do this so I won't explain.
 Target: ATmega 2560 with no additional settings
 
 *RPI MCU Config*
-This allow filament runout to work:
-https://www.klipper3d.org/RPi_microcontroller.html?h=host
+[This allows filament runout to work:](https://www.klipper3d.org/RPi_microcontroller.html?h=host)
 
-*Config*
+### *Config*
 enter mailsailos.local into any web browser
 
 Download the printer.cfg and upload it into MailSail
@@ -62,10 +59,9 @@ Download the printer.cfg and upload it into MailSail
 Uncomment the comands with CUSTOMIZE BEFORE USING above them
 Set the values to what you need.
 
-*Install Klipperscreen*
+### *Install Klipperscreen*
 Use KIAUH again to install KlipperScreen.
 
-Set your Probe Offset:
-https://www.klipper3d.org/Probe_Calibrate.html
+[Set your Probe Offset:](https://www.klipper3d.org/Probe_Calibrate.html)
 
 
