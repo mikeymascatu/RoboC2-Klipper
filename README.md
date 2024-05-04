@@ -1,10 +1,12 @@
 # RoboC2-Klipper
 
- Watch these videos for context:
+## Watch these videos for context:
 https://youtu.be/PIkeEP66ZNs - Part 1
 https://youtu.be/5eVwbW5pNZ0 - Part 2
 
 So here's my version of a printer.cfg file for a Robo3D C2 in 2024.
+
+## Specs
 
 Performance stats:
 300mm/s MAX (I tested 200) and 
@@ -12,12 +14,12 @@ Performance stats:
 
 Tested Slicers: OrcaSlicer
 
-Requirements:
+##Requirements:
 Robo C2,
 SD Card (16+ Gb),
 Internet
 
-*OS Installation*
+### *OS Installation*
 
 Flash MainsailOS (32 Bit) onto a SD card
 
@@ -26,7 +28,7 @@ https://help.robo3d.com/hc/en-us/articles/115001580151-Replacing-your-MicroSD
 
 Power on the printer and log into the Pi via ssh
 
-*Touchscreen Drivers*
+### *Touchscreen Drivers*
 
 Enter these commands (seperately)
 
