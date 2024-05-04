@@ -14,7 +14,8 @@ Performance stats:
 
 Tested Slicers: OrcaSlicer
 
-##Requirements:
+## Requirements:
+
 Robo C2,
 SD Card (16+ Gb),
 Internet
@@ -32,10 +33,12 @@ Power on the printer and log into the Pi via ssh
 
 Enter these commands (seperately)
 
+'''
 git clone https://github.com/waveshare/LCD-show.git
 cd LCD-show/
 chmod +x LCD35-show
  ./LCD35-show
+ '''
 
  Restart the Pi
 
