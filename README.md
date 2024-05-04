@@ -35,7 +35,7 @@ chmod +x LCD35-show
 
  Restart the Pi
 
- *Klipper install*
+Klipper install*
 
 Install KIAUH to make things easier
 https://github.com/dw-0/kiauh
