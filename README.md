@@ -73,6 +73,6 @@ That should be everything that's specific to the Robo C2
 
 # Optional: Robo C2 Cooling Mod:
 This is an offical mod made by Robo3D and comes in handy when printing at those speeds:
-[Offical Guide](https://help.robo3d.com/hc/en-us/articles/360001909492-Precision-Air-Flow-Fan-mount-printed-add-on)
-[Thingiverse](https://www.thingiverse.com/thing:2833645)
+[Offical Guide](https://help.robo3d.com/hc/en-us/articles/360001909492-Precision-Air-Flow-Fan-mount-printed-add-on) and 
+[STL](https://www.thingiverse.com/thing:2833645)
 
