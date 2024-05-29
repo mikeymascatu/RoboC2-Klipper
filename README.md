@@ -4,6 +4,17 @@
 https://youtu.be/PIkeEP66ZNs - Part 1
 https://youtu.be/5eVwbW5pNZ0 - Part 2
 
+## Introduction
+
+The Robo3D C2 was a Mid-Tier 3D printer from November 2016 made by the silicon valley start-up, ROBO3D.
+
+This printer was targeted as an "Out of the Box" 3D printer. Basically the Bambu Lab of 2016 (Hi Speed, Touchecreen, Usability, multicolor, ect)
+Retailing at $699, the C2 was overshadowed in features to the R2, the larger, enclosed variant of the C2.
+
+The C2 runs on a modified version of Octoprint and Marlin 1.1. The MCU architerture is the ATmega2560 (Ardunio Mega) and the RPi 3B. Both are usable with Klipper.
+
+  
+
 So here's my version of a printer.cfg file for a Robo3D C2 in 2024.
 
 ## Specs
