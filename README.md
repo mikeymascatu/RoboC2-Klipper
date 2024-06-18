@@ -50,11 +50,21 @@ G-code Macros for Loading and Unloading (Loading/Unloading manually does work cu
 
 Tested Slicers: OrcaSlicer
 
-## Requirements:
+## Physical Requirements:
 
-Robo C2,
-SD Card (16+ Gb),
+Robo C2
+
+SD Card (16+ Gb)
+
 Internet
+
+## Recommended Skills:
+
+Some moderate knowledge of the behind the scenes of 3D printing (like working on an Ender)
+
+Moderate-High level Computer Knowledge (if you're tryng this, you're probaly good enough)
+
+Basic knowledge of the Linux CLI
 
 ### NOTE:
 The Robo R2 has very similar architechure to the C2, but there are some things that are different. Bed Size, Heating, Lighting Control, Touchscreen, ect.
