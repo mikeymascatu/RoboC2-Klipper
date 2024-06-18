@@ -27,16 +27,25 @@ You're free to do anything with this config as per Klipper's open-source guideli
 ## Working Additional Features:
 
 Ethernet and Wifi
+
 Full KlipperScreen
+
 Cooling Fan Control 
+
 Pausing
+
 Filament Runout and Detection
+
 Direct intergration with MainSail compatible slicers (OrcaSlicer)
+
 Auto Bed Leveling
 
 ## Broken or in-progress Features:
+
 Optimized OrcaSlicer Profiles
+
 Speed Tuning
+
 G-code Macros for Loading and Unloading (Loading/Unloading manually does work currently)
 
 Tested Slicers: OrcaSlicer
