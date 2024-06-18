@@ -1,6 +1,7 @@
-# RoboC2-Klipper
+# Klipper on the Robo3D C2
+## Tools for running Klipper (MainSailOS) on the Robo C2
 
-## Watch these videos for context:
+## Watch these videos for additional info.
 https://youtu.be/PIkeEP66ZNs - Part 1
 https://youtu.be/5eVwbW5pNZ0 - Part 2
 
@@ -13,15 +14,30 @@ Retailing at $699, the C2 was overshadowed in features to the R2, the larger, en
 
 The C2 runs on a modified version of Octoprint and Marlin 1.1. The MCU architerture is the ATmega2560 (Ardunio Mega) and the RPi 3B. Both are usable with Klipper.
 
-  
+The C2 kinematics were designed for speed with an advertised travel speed of 250mm/s at 3k velocity. However, the outdated software and cooling handicapped the C2 at around 50-90 mm/s printing speed. With a goal of OSW (Open-Source Software) and 3D printing being sustainsblity and repairability, my goal is to reduce the waste of an aging platform by making this ancient printer competitive with today's printers. 
 
-So here's my version of a printer.cfg file for a Robo3D C2 in 2024.
+This conversion can be done with no external modifications. No additional parts other than a seperate SD card (highly recommended). Experience working with Klipper is recommended but not required and serves as a moderately difficult project depending on the experience.   
 
-## Specs
+So here's my version of a config file for a Robo3D C2 in 2024.
 
-Performance stats:
-300mm/s MAX (I tested 200) and 
-3k Accel
+## Atribution and other guidelines:
+
+You're free to do anything with this config as per Klipper's open-source guidelines. I would appreiate atrribution as "mikeymascatu" or "PRINT IT PERFECT" but isn't required. This was tested on only my C2 so your milage may heavily vary.
+
+## Working Additional Features:
+
+Ethernet and Wifi
+Full KlipperScreen
+Cooling Fan Control 
+Pausing
+Filament Runout and Detection
+Direct intergration with MainSail compatible slicers (OrcaSlicer)
+Auto Bed Leveling
+
+## Broken or in-progress Features:
+Optimized OrcaSlicer Profiles
+Speed Tuning
+G-code Macros for Loading and Unloading (Loading/Unloading manually does work currently)
 
 Tested Slicers: OrcaSlicer
 
