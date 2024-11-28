@@ -63,9 +63,9 @@ Internet
 
 ## Recommended Skills:
 
-Some moderate knowledge of the behind the scenes of 3D printing (like working on an Ender)
+Some moderate knowledge of 3D printing (like working on an Ender)
 
-Moderate-High level Computer Knowledge (if you're tryng this, you're probaly good enough)
+Moderate IT knowledge (if you're trying this, you're probaly good enough)
 
 Basic knowledge of the Linux CLI
 
