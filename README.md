@@ -48,7 +48,10 @@ Speed Tuning
 
 G-code Macros for Loading and Unloading (Loading/Unloading manually does work currently)
 
-Tested Slicers: OrcaSlicer
+## Tested Slicers: 
+
+OrcaSlicer
+(Other Klipper compatible slicers should work but no profiles are avilable)
 
 ## Physical Requirements:
 
